@@ -1,4 +1,4 @@
-# Completing Labs with the In-Browser IDE
+pwd# Completing Labs with the In-Browser IDE
 
 ## Learning Goals
 
